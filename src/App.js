@@ -46,21 +46,21 @@ function App() {
   return (
     <div className='container' style={s.container}>
       <main className='cover' style={s.cover}>
-        <h1 className='text-center text-info'>
+        <h1 className='text-center text-info title'>
           Total Recent COVID19 Cases Increase Rate
         </h1>
         <h2 className='display-3 text-success'>{state.upBy}</h2>
-        <h3 className='text-center text-muted'>
+        <h3 className='text-center text-muted dates'>
           COVID19 total confirmed cases went up by {state.upBy} from{' '}
           <span className='text-warning'>{state.previousDate}</span> to{' '}
           <span className='text-warning'>{state.recentDate}</span>
         </h3>
-        <div className="text-muted">
-          <h3 className='text-center'>
+        <div className="text-muted casess">
+          <h3 className='text-center case'>
             {state.previousDate}:{' '}
             <span className="text-danger">{state.previousCases && numberWithCommas(state.previousCases)}</span> cases
           </h3>
-          <h3 className='text-center'>
+          <h3 className='text-center case'>
             {state.recentDate}:{' '}
             <span className="text-danger">{state.recentCases && numberWithCommas(state.recentCases)}</span> cases
           </h3>
