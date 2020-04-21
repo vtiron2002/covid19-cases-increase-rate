@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "756ef0bbbdf1ade9faf939c57aac3b7b",
+    "revision": "70d9562a4e8aea15e440560611f83419",
     "url": "/covid19-cases-increase-rate/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19-cases-increase-rate/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "d877c29eca918231533b",
-    "url": "/covid19-cases-increase-rate/static/css/main.d1b05096.chunk.css"
+    "revision": "207c7b5330510afc2d34",
+    "url": "/covid19-cases-increase-rate/static/css/main.79e03c89.chunk.css"
   },
   {
     "revision": "d584fc9b8256295ba4d9",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19-cases-increase-rate/static/js/2.5ee266ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d877c29eca918231533b",
-    "url": "/covid19-cases-increase-rate/static/js/main.ad70558c.chunk.js"
+    "revision": "207c7b5330510afc2d34",
+    "url": "/covid19-cases-increase-rate/static/js/main.f34f3a76.chunk.js"
   },
   {
     "revision": "9508ee4cbdb97b4f2bab",

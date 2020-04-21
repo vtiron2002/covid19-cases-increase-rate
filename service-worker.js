@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/covid19-cases-increase-rate/precache-manifest.bbddfdbe055a604fc3d1848f7e1fb5d0.js"
+  "/covid19-cases-increase-rate/precache-manifest.c111b2b2a43bfc79f68475fb19daf08f.js"
 );
 
 self.addEventListener('message', (event) => {
